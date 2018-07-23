@@ -1,0 +1,22 @@
+article{
+
+}
+
+img{
+	height: 100px;
+}
+
+.imgserie{
+	float: left;
+	margin-right: 5px;
+}
+
+.element{
+	height: 100px;
+	margin-top: 10px;
+}
+
+.container-fluid{
+	width: 960px;
+}
+
